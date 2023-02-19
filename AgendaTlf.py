@@ -106,5 +106,3 @@ def directory():
 directory()
 
 
-#referencias
-#https://github.com/JetBrains/ideolog/issues/55
